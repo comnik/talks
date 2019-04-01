@@ -16,3 +16,6 @@ A Many-Worlds Interpretation of State
 **Reactive Datalog For Datomic**
 [Clojure/conj 2018](http://2018.clojure-conj.org/)
 [slides](./reactive-datalog-for-datomic.pdf)
+
+**Declarative Differential Dataflows**
+[slides](./declarative-differential-dataflows.pdf)
