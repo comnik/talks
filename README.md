@@ -1,5 +1,9 @@
 # Talks
 
+**About Time: An Introduction to Timely Dataflow**
+[Data Council BCN 2019](https://www.datacouncil.ai/)
+[slides](./about-time-an-intro-to-timely-dataflow.pdf)
+
 **Out of the Tar Pit**
 [PWL Zurich](https://www.meetup.com/de-DE/Papers-we-love-Zurich)
 [slides](./pwl-tarpit.pdf)
